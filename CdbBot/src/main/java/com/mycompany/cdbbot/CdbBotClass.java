@@ -29,9 +29,10 @@ public class CdbBotClass extends TelegramLongPollingBot {
         return "Cdb BOT";
     }
 
+    // BotToken
     @Override
     public String getBotToken() {
-        return "6108894788:AAGcKx9K7qiz_gBADuuUgYtb5QTmtU0dndY";
+        return "xxxx";
     }
 
     @Override
